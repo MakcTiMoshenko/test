@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e177abc6-26df-4dad-ab73-7461c826261d" name="Changes" comment="5 семинар" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dDDzQ6eRPWpY3ZXs5alGyHiNeM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.GetWeatherFifeDayTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetWeatherFifeDayTest.get_shouldReturn200witParthText.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetWeatherFifeDayTest.get_shouldReturn255.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetWeatherFifeDayTest.get_shouldReturn400.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetWeatherFifeDayTest.get_shouldReturn404.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetWeatherFifeDayTest.get_shouldReturn500.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetWeatherOneDayTest.get_shouldReturn200.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetWeatherOneDayTest.get_shouldReturn500.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GetWeatherTenDaysTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lesson5-my&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.max.home.accu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GetWeatherFifeDayTest.get_shouldReturn400">
+    <configuration name="GetWeatherFifeDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.GetWeatherFifeDayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetWeatherFifeDayTest.get_shouldReturn255" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.GetWeatherFifeDayTest" />
+      <option name="METHOD_NAME" value="get_shouldReturn255" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetWeatherFifeDayTest.get_shouldReturn400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.GetWeatherFifeDayTest" />
+      <option name="METHOD_NAME" value="get_shouldReturn400" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetWeatherFifeDayTest.get_shouldReturn404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.GetWeatherFifeDayTest" />
+      <option name="METHOD_NAME" value="get_shouldReturn404" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetWeatherTenDaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.home.accu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.home.accu" />
+      <option name="MAIN_CLASS_NAME" value="org.max.home.accu.GetWeatherTenDaysTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GetWeatherFifeDayTest.get_shouldReturn400" />
+        <item itemvalue="JUnit.GetWeatherTenDaysTest" />
+        <item itemvalue="JUnit.GetWeatherFifeDayTest" />
+        <item itemvalue="JUnit.GetWeatherFifeDayTest.get_shouldReturn255" />
+        <item itemvalue="JUnit.GetWeatherFifeDayTest.get_shouldReturn404" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e177abc6-26df-4dad-ab73-7461c826261d" name="Changes" comment="" />
+      <created>1709534016703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709534016703</updated>
+      <workItem from="1709534017808" duration="6163000" />
+    </task>
+    <task id="LOCAL-00001" summary="5 семинар">
+      <option name="closed" value="true" />
+      <created>1709535018087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709535018087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="5 семинар">
+      <option name="closed" value="true" />
+      <created>1709540020036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709540020036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5 семинар" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 семинар" />
+  </component>
+</project>
